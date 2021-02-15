@@ -1,0 +1,3 @@
+[13-Feb-2021 16:11:33 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/common/header.php on line 17
+[14-Feb-2021 10:52:23 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[14-Feb-2021 11:23:29 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
